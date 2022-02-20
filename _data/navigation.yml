@@ -10,14 +10,14 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
-    - title: "자기 소개"
+    - title: "GitHub Home"
       url: https://github.com/nabesin1983
 
 docs:
   - title: "PERSONAL"
     children:
       - title: "시작하면서..."
-        url: /ntro/
+        url: /intro/
 
   - title: "PYTORCH"
     children:
