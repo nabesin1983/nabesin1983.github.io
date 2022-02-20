@@ -1,12 +1,27 @@
 # main links
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  - title: "About"
-    url: https://mmistakes.github.io/minimal-mistakes/about/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
-  - title: "Sitemap"
-    url: /sitemap/
+  # - title: "Quick-Start Guide"
+  #   url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+    - title: "자기 소개"
+      url: /sitemap/
+
+docs:
+  - title: "Personal"
+    children:
+      - title: "시작하면서..."
+        url: /_posts/2021-11-06-intro.md
+
+  - title: "PyTorch"
+    children:
+      - title: "MNIST 예제"
+        url: /_posts/2021-11-06-mnist-example-by-pytorch
+      - title: "선형회귀 예제"
+        url: /_posts/2021-11-21-understanding-pytorch-with-an-example
