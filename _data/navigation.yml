@@ -17,11 +17,11 @@ docs:
   - title: "PERSONAL"
     children:
       - title: "시작하면서..."
-        url: /_posts/intro/
+        url: /ntro/
 
   - title: "PYTORCH"
     children:
       - title: "MNIST 예제"
-        url: /_posts/mnist-example-by-pytorch/
+        url: /mnist-example-by-pytorch/
       - title: "선형회귀 예제"
-        url: /_posts/understanding-pytorch-with-an-example/
+        url: /understanding-pytorch-with-an-example/
