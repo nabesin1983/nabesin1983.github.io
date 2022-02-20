@@ -290,5 +290,5 @@ defaults:
       related: true
       show_date: true
       sidebar:
-        nav: "main"
+        nav: "docs"
       toc: true # Table of Contents
