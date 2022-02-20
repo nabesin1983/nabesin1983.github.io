@@ -11,17 +11,17 @@ main:
   # - title: "Sitemap"
   #   url: /sitemap/
     - title: "자기 소개"
-      url: /sitemap/
+      url: https://github.com/nabesin1983
 
 docs:
-  - title: "Personal"
+  - title: "PERSONAL"
     children:
       - title: "시작하면서..."
-        url: /_posts/2021-11-06-intro.md
+        url: /_posts/intro/
 
-  - title: "PyTorch"
+  - title: "PYTORCH"
     children:
       - title: "MNIST 예제"
-        url: /_posts/2021-11-06-mnist-example-by-pytorch
+        url: /_posts/mnist-example-by-pytorch/
       - title: "선형회귀 예제"
-        url: /_posts/2021-11-21-understanding-pytorch-with-an-example
+        url: /_posts/understanding-pytorch-with-an-example/
