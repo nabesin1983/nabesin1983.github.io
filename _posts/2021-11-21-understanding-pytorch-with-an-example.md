@@ -119,7 +119,7 @@ print(linr.intercept_, linr.coef_[0])
     [1.02354075] [1.96896447]
     
 
-#Case 3. PyTorch를 이용해서 선형회귀 구현하기
+# Case 3. PyTorch를 이용해서 선형회귀 구현하기
 
 ## Numpy 배열을 PyTorch tensor로 변환
 
