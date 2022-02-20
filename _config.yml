@@ -291,3 +291,4 @@ defaults:
       show_date: true
       sidebar:
         nav: "main"
+      toc: true # Table of Contents
