@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "선형회귀 예제를 이용한 Pytorch의 이해"
+title:  "PyTorch 선형회귀 예제"
 ---
 
-# 선형회귀식을 직접 수식으로, 또는 Pytorch를 써서 도출하기
+# 선형회귀 예제를 풀면서 PyTorch를 이해해 보자
 
 이 글은 다음 블로그를 참고해서 작성되었습니다.
 

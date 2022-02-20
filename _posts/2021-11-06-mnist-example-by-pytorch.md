@@ -1,9 +1,9 @@
 ---
 layout: single
-title:  "Pytorch로 MNIST 이미지 분류하기"
+title:  "PyTorch MNIST 예제"
 ---
 
-# Pytorch MNIST 예제
+# Image Classification(MNIST Dataset)
 
 ```python
 from __future__ import print_function
