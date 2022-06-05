@@ -7,7 +7,7 @@ title:  "PyTorch 선형회귀 예제"
 
 이 글은 다음 블로그를 참고해서 작성되었습니다.
 
-Daniel Godoy, "Understanding PyTorch with an example: a step-by-step tutorial", Towards Data Science, https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8e (2019. 5. 7.).
+[Daniel Godoy, "Understanding PyTorch with an example: a step-by-step tutorial", Towards Data Science, (2019. 5. 7.).]([https://towardsdatascience.com/understanding-pytorch-with-an-example-a-step-by-step-tutorial-81fc5f8c4e8])
 
 문제 : y = 1 + 2x에 의도적으로 약간의 노이즈를 더 한 점 (x, y)의 Dataset을 만들었다. y = a + bx라는 함수원형에서 선형회귀 방식으로 Dataset에 가장 잘 매칭되는 값 a, b를 구하려 한다.
 
